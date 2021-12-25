@@ -15,10 +15,10 @@ It also automates calls to national helplines from within the application
 
 ![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/Capture%202.JPG)
 ![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/Capture%203.JPG)
-![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/capture%207.jpg)
+
 ![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/Capture%204.JPG)
 ![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/Capture%205.JPG)
-
+![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/capture%207.jpg)
 ![Image](https://github.com/reneda/images/blob/master/VaccTrack%20Images/Capture%206.JPG)
 
 
